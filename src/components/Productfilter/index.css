@@ -1,0 +1,9 @@
+select {
+  width: 30%;
+  border: 1px solid #bbb;
+  padding:.75em 1em .5em 1em;
+  box-shadow: 0 2px 1px 0 rgba(0,0,0,0.2);
+  background-color:white;
+ 
+}
+
